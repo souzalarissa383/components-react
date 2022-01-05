@@ -1,11 +1,11 @@
 {
-  "main.js": "./static/js/main.1a1f1adf.chunk.js",
-  "main.js.map": "./static/js/main.1a1f1adf.chunk.js.map",
-  "static/js/1.7434611c.chunk.js": "./static/js/1.7434611c.chunk.js",
-  "static/js/1.7434611c.chunk.js.map": "./static/js/1.7434611c.chunk.js.map",
-  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
-  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
-  "index.html": "./index.html",
-  "precache-manifest.4e72b1571c2c3dd96fa46563dae6b404.js": "./precache-manifest.4e72b1571c2c3dd96fa46563dae6b404.js",
-  "service-worker.js": "./service-worker.js"
+  "main.js": "/souzalarissa383/components-react/static/js/main.1a1f1adf.chunk.js",
+  "main.js.map": "/souzalarissa383/components-react/static/js/main.1a1f1adf.chunk.js.map",
+  "static/js/1.7434611c.chunk.js": "/souzalarissa383/components-react/static/js/1.7434611c.chunk.js",
+  "static/js/1.7434611c.chunk.js.map": "/souzalarissa383/components-react/static/js/1.7434611c.chunk.js.map",
+  "runtime~main.js": "/souzalarissa383/components-react/static/js/runtime~main.6f476889.js",
+  "runtime~main.js.map": "/souzalarissa383/components-react/static/js/runtime~main.6f476889.js.map",
+  "index.html": "/souzalarissa383/components-react/index.html",
+  "precache-manifest.01269a3bbaa4e68b2494606fe494808a.js": "/souzalarissa383/components-react/precache-manifest.01269a3bbaa4e68b2494606fe494808a.js",
+  "service-worker.js": "/souzalarissa383/components-react/service-worker.js"
 }
