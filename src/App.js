@@ -1,5 +1,6 @@
 import Item from './components/Item';
 import Card from './components/Card';
+import React from 'react'
 
 const App = () =>{
   return (
